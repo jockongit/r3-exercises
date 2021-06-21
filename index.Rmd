@@ -2,4 +2,8 @@
 title: "Welcome"
 ---
 
+<<<<<<< HEAD
 Hello, Github!
+=======
+Hello, RStudio!
+>>>>>>> edit from Rstudio
